@@ -1,0 +1,1 @@
+This repo has PHP images used for different objectives (dev, stage and prod environments, with vanilla and Laravel projects)
