@@ -1,3 +1,5 @@
 <?php 
 
-    echo "Sabelo pelo";
+    $var = 10;
+    echo $var;
+
