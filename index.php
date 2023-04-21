@@ -2,7 +2,7 @@
 
     echo "Bienvenido";
     $var = 10;
-    echo $var;	
+    echo "Como estas " . $var . "?";	
     if*(){ 
     }
 
