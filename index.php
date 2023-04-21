@@ -1,5 +1,7 @@
 <?php 
 
     $var = 10;
-    echo $var;
+    echo $var;	
+    if*(){ 
+    }
 
