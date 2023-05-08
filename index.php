@@ -2,3 +2,9 @@
 
     echo "Bienvenido";
 	
+    $var = 10;	
+
+
+
+
+
