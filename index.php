@@ -4,4 +4,8 @@
     $var = 10;	
 
 
-    sabelo 
+//    sabelo 
+
+
+    phpinfo();
+
