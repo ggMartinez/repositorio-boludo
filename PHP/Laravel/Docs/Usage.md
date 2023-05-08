@@ -1,1 +1,0 @@
-Just run the image with a laravel project mounted on /var/www/html, and it will start.
