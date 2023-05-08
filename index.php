@@ -1,5 +1,7 @@
 <?php 
 
     echo "Bienvenido";
-    $var = 10;
-	
+    $var = 10;	
+
+
+    sabelo 
